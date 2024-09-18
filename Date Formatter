@@ -27,3 +27,4 @@ dateOptionsSelectElement.addEventListener("change", () => {
       currentDateParagraph.textContent = formattedDate;
   }
 });
+
